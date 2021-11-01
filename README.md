@@ -1,3 +1,3 @@
-# Digital Traveler
+# Digital Traveler: MCT Mapping Platform (INDENG 190E)
 
-A Flutter application for analyzing manufacturing critical path time in job shops.
+A digitalized platform to track MCT Mapping for manufactuing companies.
